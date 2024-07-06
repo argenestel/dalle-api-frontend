@@ -1,4 +1,3 @@
-import React from 'react';
 import Navbar from './components/Navbar';
 import ImageGenerator from './components/ImageGenerator';
 import './index.css';
